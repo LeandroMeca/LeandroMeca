@@ -18,6 +18,11 @@
     <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SPRINGBOOT"/>
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
     <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="HIBERNATE"/>
+    <img align="center" src="https://img.shields.io/badge/Entity%20Framework-4E2574?style=for-the-badge&logo=.net&logoColor=white" alt="ENTITY FRAMEWORK"/>
+<img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL SERVER"/>
+<img align="center" src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="SPRING CLOUD"/>
+<img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
     <img align="center" src="" alt=""/>
     
 </div>
