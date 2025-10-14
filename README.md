@@ -37,8 +37,8 @@
     <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS"/>
 </div><br/>
 
-Principais projetos
-https://github.com/LeandroMeca/microserviceSpringCloud
+<h1>Principais projetos<br></h1>
+https://github.com/LeandroMeca/microserviceSpringCloud ,
 https://github.com/LeandroMeca/minimal-api-dotnet
-
+<h1>Objetivo</h1>
 Desenvolvedor FullStack em transição de carreira, com sólida base em manutenção de computadores e mais de 10 anos de experiência em suporte técnico. Atualmente cursando Pós-graduação em Engenharia de Software e aprofundando conhecimentos em Java, .NET, Spring Boot, Spring Cloud, Angular, MySQL e SQL Server. Participante ativo de bootcamps e do programa DIO Campus Expert, focado em criar soluções escaláveis e de qualidade. Busco oportunidade para aplicar minhas habilidades em desenvolvimento backend e frontend, contribuindo para equipes inovadoras.
