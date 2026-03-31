@@ -8,6 +8,7 @@
 ![Leandro GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LeandroMeca&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeandroMeca&layout=compact&theme=tokyonight)
+
 ## Tecnologias que estudo
 
 <div style="display: inline_block"><br/>
@@ -41,6 +42,7 @@
 <h1>Principais projetos<br></h1>
 https://github.com/LeandroMeca/microserviceSpringCloud ,
 https://github.com/LeandroMeca/minimal-api-dotnet ,
-https://github.com/LeandroMeca/apiMicroservicosMensageriaDocker
+https://github.com/LeandroMeca/apiMicroservicosMensageriaDocker,
+https://github.com/LeandroMeca/minimal-api-dotnet
 <h1>Objetivo</h1>
 Desenvolvedor FullStack em transição de carreira, com sólida base em manutenção de computadores e mais de 10 anos de experiência em suporte técnico. Atualmente cursando Pós-graduação em Engenharia de Software e aprofundando conhecimentos em Java, .NET, Spring Boot, Spring Cloud, Angular, MySQL e SQL Server. Participante ativo de bootcamps e do programa DIO Campus Expert, focado em criar soluções escaláveis e de qualidade. Busco oportunidade para aplicar minhas habilidades em desenvolvimento backend e frontend, contribuindo para equipes inovadoras.
