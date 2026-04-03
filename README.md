@@ -47,6 +47,12 @@
 [![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/microserviceSpringCloud)
 
 ---
+### 📌 Microservice Spring Cloud
+
+[![YouTube](https://img.shields.io/badge/Microservice%20Spring%20Cloud%20com%20N8N-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pk4EirSqJlQ)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/microserviceSpringCloud)
+
+---
 
 ### 📌 Minimal API .NET
 [![YouTube](https://img.shields.io/badge/API%20.NET-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Olv8Gk_7vsI)
