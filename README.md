@@ -40,9 +40,27 @@
 </div><br/>
 
 <h1>Principais projetos<br></h1>
-https://github.com/LeandroMeca/microserviceSpringCloud ,
-https://github.com/LeandroMeca/minimal-api-dotnet ,
-https://github.com/LeandroMeca/apiMicroservicosMensageriaDocker,
-https://github.com/LeandroMeca/minimal-api-dotnet
+
+## 🚀 Principais Projetos
+
+### 📌 Microservice Spring Cloud
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/microserviceSpringCloud)
+
+---
+
+### 📌 Minimal API .NET
+[![YouTube](https://img.shields.io/badge/API%20.NET-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Olv8Gk_7vsI)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/minimal-api-dotnet)
+
+---
+
+### 📌 API Microserviços Mensageria Docker
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/apiMicroservicosMensageriaDocker)
+
+---
+
+### 📌 Minimal API .NET (versão adicional)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/minimal-api-dotnet)
+
 <h1>Objetivo</h1>
 Desenvolvedor FullStack em transição de carreira, com sólida base em manutenção de computadores e mais de 10 anos de experiência em suporte técnico. Atualmente cursando Pós-graduação em Engenharia de Software e aprofundando conhecimentos em Java, .NET, Spring Boot, Spring Cloud, Angular, MySQL e SQL Server. Participante ativo de bootcamps e do programa DIO Campus Expert, focado em criar soluções escaláveis e de qualidade. Busco oportunidade para aplicar minhas habilidades em desenvolvimento backend e frontend, contribuindo para equipes inovadoras.
