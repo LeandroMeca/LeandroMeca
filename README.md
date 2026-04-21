@@ -43,8 +43,10 @@
 
 ## 🚀 Principais Projetos
 
-### 📌 Microservice Spring Cloud
-[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/microserviceSpringCloud)
+---
+
+### 📌 Geo Delivery
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroMeca/GeoDelivery)
 
 ---
 ### 📌 Microservice Spring Cloud
