@@ -67,5 +67,7 @@
 
 ---
 
-<h1>Objetivo</h1>
-Desenvolvedor FullStack em transição de carreira, com sólida base em manutenção de computadores e mais de 10 anos de experiência em suporte técnico. Atualmente cursando Pós-graduação em Engenharia de Software e aprofundando conhecimentos em Java, .NET, Spring Boot, Spring Cloud, Angular, MySQL e SQL Server. Participante ativo de bootcamps e do programa DIO Campus Expert, focado em criar soluções escaláveis e de qualidade. Busco oportunidade para aplicar minhas habilidades em desenvolvimento backend e frontend, contribuindo para equipes inovadoras.
+**Objetivo**
+Atuar como Desenvolvedor FullStack com foco em backend e arquitetura de sistemas, aplicando conhecimentos em .NET, Java e microserviços para construir aplicações escaláveis e bem estruturadas.
+Possuo mais de 10 anos de experiência em suporte técnico, trazendo uma forte capacidade de resolução de problemas em ambientes reais. Atualmente estou me especializando em Engenharia de Software e aprofundando práticas modernas como APIs REST, mensageria e sistemas distribuídos.
+Busco uma oportunidade para contribuir com soluções robustas e evoluir profissionalmente em projetos desafiadores.
