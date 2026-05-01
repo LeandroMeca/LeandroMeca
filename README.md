@@ -40,7 +40,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 ### ⚙️ DevOps & Automação
@@ -56,6 +56,13 @@
 ![E2E Tests](https://img.shields.io/badge/tests-E2E-blue?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/tested%20with-Playwright-45ba4b?style=for-the-badge&logo=playwright)
 ![Coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen?style=for-the-badge)
+
+---
+
+### 🤖 IA & Automação Inteligente
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI-Agents-blueviolet?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
