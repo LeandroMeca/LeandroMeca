@@ -4,8 +4,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-cruz-dev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@leandrocruz6621?si=rh1lJo8DeP29Rrpm)
 
-![Leandro GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LeandroMeca&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeandroMeca&layout=compact&theme=tokyonight)
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroMeca&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMeca&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=LeandroMeca&theme=tokyonight)
 
 ---
 
@@ -56,19 +59,17 @@
 
 ---
 
+### 🔐 Segurança & API
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
 ### 📐 Arquitetura & Boas Práticas
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-blue?style=for-the-badge)
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroMeca&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroMeca&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=LeandroMeca&theme=tokyonight)
 
 ---
 
